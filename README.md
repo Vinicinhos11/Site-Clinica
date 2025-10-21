@@ -73,7 +73,6 @@ paginamedica/
 
 - **HTML5** — Estrutura e semântica do conteúdo  
 - **CSS3** — Estilização e layout responsivo  
-- **JavaScript (Vanilla)** — Funcionalidade de rolagem suave e interatividade  
 
 ---
 
